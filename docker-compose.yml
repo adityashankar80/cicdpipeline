@@ -1,5 +1,5 @@
 version: "3"
-services:
+service:
   employee-jdbc:
     image: employee-jdbc
     ports:
